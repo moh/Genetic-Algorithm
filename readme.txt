@@ -1,0 +1,1 @@
+in each problem there is a readme about the problem, how to run it and some problems that we may encounter
